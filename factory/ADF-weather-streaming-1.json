@@ -1,0 +1,24 @@
+{
+	"name": "ADF-weather-streaming-1",
+	"properties": {
+		"globalConfigurations": {
+			"mountedConfiguration": [
+				{
+					"workspaceId": "03ce5942-2eee-4d1e-bcc2-d93e247f9f11",
+					"artifactId": "ab58a5ff-9388-42b0-aa8f-1c4577b56826",
+					"type": "auto-provision"
+				}
+			]
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7101c6e-75fc-4098-8895-f091876cfef3",
+		"tenantId": "7fe50931-da99-4381-bcc1-59d1aecf4c26"
+	}
+}
