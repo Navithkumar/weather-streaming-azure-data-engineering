@@ -27,7 +27,7 @@
 						}
 					},
 					"dataset": {
-						"referenceName": "raw_data",
+						"referenceName": "meta_data_driven",
 						"type": "DatasetReference"
 					},
 					"firstRowOnly": false
