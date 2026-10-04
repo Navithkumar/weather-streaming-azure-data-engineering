@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405608665139991.11.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/07793f64-1963-4538-8109-0513dad0a0b1/resourceGroups/rg-weather-streaming-platform/providers/Microsoft.Databricks/workspaces/dfw-weather-streaming",
+			"existingClusterId": "0930-125246-l0ep7b17"
+		}
+	}
+}
